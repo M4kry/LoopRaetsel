@@ -18,7 +18,6 @@ Interactive puzzle game from the *Game Dev 1* module at Hochschule Bonn-Rhein-Si
 4. [Team & Credits](#team--credits)  
 5. [Sources & Tools](#sources--tools)  
 6. [How to Run](#how-to-run)  
-7. [License](#license)
 
 ---
 
