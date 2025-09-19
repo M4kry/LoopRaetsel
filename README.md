@@ -40,6 +40,7 @@ Interactive puzzle game from the *Game Dev 1* module at Hochschule Bonn-Rhein-Si
 - No Combat: purely exploratory and puzzle-oriented.  
 - No Waypoints or Markers: players must interpret clues themselves and find their path.  
 - Storytelling: uncovering narrative and clues within a magical spellbook.
+- Lanaguage: the game only provides german language
 
 ### Technical Features
 
