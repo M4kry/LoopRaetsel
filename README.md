@@ -127,19 +127,8 @@ Interactive puzzle game from the *Game Dev 1* module at Hochschule Bonn-Rhein-Si
 
 ## How to Run
 
-> *This section depends on your project setup. You might need to fill this with actual steps later.*
-
-1. Clone the repository  
-2. Open the project in **Unity** (version 6000.0.46f1)  
-3. Ensure required assets (pixel art, sounds, etc.) are present under `/Assets/`  
-4. Build & Run in Editor, or create a build for target platform (PC / Windows / etc.)  
-5. Use the inventory and questbook via assigned keys / UI  
-
----
-
-## License
-
-> Add the license you intend to use (e.g. MIT, Apache, etc.)
+To play the game just donwload the zip and extract it.
+If you like to look at the code and the unity project open the unity file with **Unity** (version 6000.0.46f1).
 
 ---
 
